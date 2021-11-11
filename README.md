@@ -1,4 +1,4 @@
-# Projeto de alimentador automático de Pet
+# Projeto de Aprendizado de Máquina
 
 Sistema de aprendizado de máquina que realiza a seleção de linhagens de tomateiros baseada em dados.
 
@@ -19,7 +19,7 @@ Sistema de aprendizado de máquina que realiza a seleção de linhagens de tomat
 
 O projeto foi desenvolvido para a matéria de Disruptive Architectures IOT and IA, do curso de Análise e Desenvolvimento de Sistemas da FIAP.
 
-O intuito do projeto é uma aplicação de visão computacional desenvolvida em Python, capaz de realizar a seleção de linhagens de tomateiros baseada em dados (atributos), ou seja, um programa que classifica se um tomate tem resistência ou não ao fungo. 
+O intuito do projeto é uma aplicação de aprendizado de máquina desenvolvida em Python, capaz de realizar a seleção de linhagens de tomateiros baseada em dados (atributos), ou seja, um programa que classifica se um tomate tem resistência ou não ao fungo. 
 
 
 ## Sotware e plataforma necessários
@@ -39,16 +39,18 @@ O intuito do projeto é uma aplicação de visão computacional desenvolvida em 
 
 ![](https://python.org.br/images/instalacao-windows/03.png)
 
-#### 1.2 Abra seu terminal e instale a última versão do OpenCV
+#### 1.2 Abra seu terminal e instale a última versão do scikit-learn e do pandas
 
-    pip install opencv-python
+    pip install scikit-learn
+    pip install pandas
 
 ### 2. Linux - Ubuntu
 
-#### 2.1 Instale uma versão Python que seja superior à 3.6 e em seguida a última versão do OpenCV
+#### 2.1 Instale uma versão Python que seja superior à 3.6 e em seguida a última versão do scikit-learn e do pandas
 
     sudo apt install python3.6
-    pip3 install opencv-python
+    pip3 install scikit-learn
+    pip3 install pandas
 
 ## Arquitetura do projeto
 
