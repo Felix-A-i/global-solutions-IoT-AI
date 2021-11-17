@@ -57,7 +57,7 @@ O intuito do projeto é uma aplicação de aprendizado de máquina desenvolvida 
 <img src="https://i.imgur.com/ryfgSx3.jpg">
 
 ## Link de vídeo
-- [link-video](https://www.youtube.com/watch?v=TZMbxGHbd2s)
+- [link-video](https://youtu.be/tccrNGIe2ak)
 ### Referências
 
 - [Sklearn](https://scikit-learn.org/stable/)
